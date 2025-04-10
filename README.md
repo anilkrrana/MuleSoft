@@ -8,9 +8,9 @@ Private flow: Private flow does not use a source. It can be synchronous or async
 
 # Difference between PATCH, PUT and POST?
 
-# Q. Post is used to create a new entity.
-Patch is used to update an existing entity with new information.
-Put is used to set an entity's information completely.
+1. Post is used to create a new entity.
+2. Patch is used to update an existing entity with new information.
+3. Put is used to set an entity's information completely.
 
 
 # Q. What is Fragment and how to use it?
